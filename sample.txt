@@ -4,3 +4,4 @@
 ブランチsubで行った編集です2
 ほげほげ〜
 hogehoge
+fizzbuzz(cloneしたリポジトリのmasterで追加)
